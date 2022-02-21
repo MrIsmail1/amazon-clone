@@ -29,6 +29,7 @@ dispatch({
      <button onClick={removeFromBasket}>Remove from Basket</button>
      </div>
     </div>
+    
   )
 }
 
